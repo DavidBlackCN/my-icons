@@ -1,62 +1,43 @@
 # My Icon
 
 
-# 目录
+- 原项目：[heizicao/My Icon](https://gitee.com/heizicao/my-icon)
+- 修改版：[Siriling/my-icons](https://github.com/Siriling/my-icons)
+- 参考布局：[oliver556/my-icons](https://github.com/oliver556/my-icons)
 
-[一、简介](#一简介)
+基于My Icons项目修改，提供在线图标链接，用于个人NAS设备显示使用，禁止用于商业用途！
 
-[二、展示](#二链接)
+---
 
-[三、使用](#三使用)
+### 使用
 
-[四、分类](#四分类)
-
-[五、本地运行](#五本地运行)
-
-[六、Docker部署](#六Docker部署)
-
-# 一、简介
-
-基于[heizicao/My Icon](https://gitee.com/heizicao/my-icon)修改，提供在线图标链接，用于个人NAS设备显示使用，禁止用于商业用途
-
-# 二、展示
-
-https://siriling.github.io/my-icons/dist
-
-![show](public/screenshot.png)
-
-
-# 三、使用
-
+- [Github-Pages](https://github.com/oliver556/my-icons)
+- [EdgeOne镜像]()
 - 点击相应图标即可获取URL
 
-- 点击相应图标即可查看部署教程
+![show](public/show.png)
 
-- 打开CDN开关，可转换为CDN链接
+---
 
-# 四、分类
-- Docker容器（docker）
-- 路由器（router）
-- 虚拟机（vms）
-- 项目（project）
-- 其他（other）
+### 本地部署
 
-# 五、本地运行
+开发要求：[Node.js](http://nodejs.org/)
 
-下载安装node.js，在CMD运行以下两个命令，然后在浏览器打开http://localhost:8080
+克隆代码仓库：
+```shell
+git clone https://github.com/DavidBlackCN/my-icons.git
+```
 
+安装依赖：
 ```shell
 npm install
+```
+
+启动开发服务：
+```shell
 npm run serve
 ```
 
-# 六、Docker部署
-
-1. Docker部署Nginx服务
-2. 下载dist文件夹
-3. 放到Nginx的www文件夹中
-4. 将图标放入icon文件夹
-5. 修改db.json
 
 
 
