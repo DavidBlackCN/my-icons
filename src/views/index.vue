@@ -281,7 +281,7 @@ export default defineComponent({
 		async function copyIconUrl(url: string) {
 			let currenturl = window.location.href;
 			let iconurl = data.publicPath + "icon/" + url;
-			let iconurlCdn = "https://cdn.jsdelivr.net/gh/DavidBlackCN/my-icons@main/dist/icon/" + url; // CDN Url
+			let iconurlCdn = "https://cdn.jsdelivr.net/gh/DavidBlackCN/my-icons@@gh-pages/" + "icon/" + url; // CDN Url
 				
 			// 备用 CDN Url
 			// fastly.jsdelivr.net
