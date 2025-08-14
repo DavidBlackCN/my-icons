@@ -86,42 +86,35 @@
 					<div class="icon-show-header_num">{{ items.length }} {{ pluralize(items.length) }}</div>
 					<div class="icon-show-header_line"></div>
 				</div>
-				
-				<div class="card">
-					<!-- 内层循环遍历当前分类下的项目 -->
-					<div
-						v-for="item in items"
-						:key="item.name"
-						class="card_content"
-						@click="copyIconUrl(category + '/' + item.name + (item.type === 'svg' ? '.svg' : '.png'))"
-					>
-						<el-tooltip
-							class="item"
-							effect="light"
-							placement="top"
-						>
-							<template #content> {{ getItemContent(item) }}</template>
-							<!--<template #content>-->
-							<el-image
-								v-if="item.type === 'svg'"
-								class="card_img"
-								:src="data.publicPath + 'icon/' + item.name + '.svg'"
-								lazy
-								fit="contain"
-							/>
-							<el-image
-								v-else
-								class="card_img"
-								:src="data.publicPath + 'icon/' + category + '/' + item.name + '.png'"
-								lazy
-								fit="contain"
-							/>
-						</el-tooltip>
-						<div class="card_content_txt" @click="openUrl(item.course)" :class="item.course !== '' ? 'card_content_course' : ''">
-							{{ item.name }}
-						</div>
-					</div>
-				</div>
+
+		<!-- 修复不同格式图片的加载问题 -->
+		<div class="card">
+		<!-- 内层循环遍历当前分类下的项目 -->
+  		<div
+    		v-for="item in items"
+    		:key="item.name"
+    		class="card_content"
+    		@click="copyIconUrl(`${category}/${item.name}.${item.type}`)"
+  		>
+    		<el-tooltip
+      		class="item"
+      		effect="light"
+      		placement="top"
+    		>
+      		<template #content> {{ getItemContent(item) }}</template>
+      		<!-- 动态图片显示 -->
+      		<el-image
+        		class="card_img"
+        		:src="`${data.publicPath}icon/${category}/${item.name}.${item.type}`"
+        		lazy
+        		fit="contain"
+      		/>
+    		</el-tooltip>
+    		<div class="card_content_txt" @click="openUrl(item.course)" :class="item.course !== '' ? 'card_content_course' : ''">
+      		{{ item.name }}
+    		</div>
+  		</div>
+		</div>
 			
 			
 			</div>
@@ -288,11 +281,9 @@ export default defineComponent({
 		async function copyIconUrl(url: string) {
 			let currenturl = window.location.href;
 			let iconurl = data.publicPath + "icon/" + url;
-			// let iconurlCdn = "https://cdn.jsdelivr.net/gh/oliver556/my-icons@main/dist/" + "icon/" + url; // CDN Url
-			let iconurlCdn = "https://cdn.jsdelivr.net/gh/DavidBlackCN/my-icons@gh-pages/" + "icon/" + url; // CDN Url
-			// let iconurlCdn = "https://github.viplee.top/https://raw.githubusercontent.com/oliver556/my-icons/refs/heads/main/dist/icon/" + url; // 套 CF
+			let iconurlCdn = "https://cdn.jsdelivr.net/gh/DavidBlackCN/my-icons@main/dist/icon/" + url; // CDN Url
 				
-				// 备用 CDN Url
+			// 备用 CDN Url
 			// fastly.jsdelivr.net
 			// gcore.jsdelivr.net
 			// testingcf.jsdelivr.net

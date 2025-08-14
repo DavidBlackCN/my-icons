@@ -38,7 +38,23 @@ npm install
 npm run serve
 ```
 
+### 部署须知
 
+此版本修改内容：
+
+- 操作简化，自动识别 `./public/icon` 内文件夹名作为图标分类名称
+- 修改 `./src/views/index.vue` 修复不同格式图片的加载问题
+- 添加python脚本以自动生成数据储存文件db.json
+
+使用须知：
+
+1. 在 `./public/icon/<Your_Category_Name>` 内储存图标
+2. 在 `./src/views/index.vue` 中修改CDN链接使其指向自己的仓库
+```
+let iconurlCdn = "https://cdn.jsdelivr.net/gh/DavidBlackCN/my-icons@main/dist/icon/" + url; // 此处修改CDN Url
+```
+3. 运行根目录下 `generate_icon_db.py` ，将自动根据icon文件夹内容生成db.json
+4. 上传仓库并部署服务
 
 
 
