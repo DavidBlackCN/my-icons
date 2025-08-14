@@ -11,8 +11,8 @@
 
 ### 使用
 
-- [Github-Pages](https://github.com/oliver556/my-icons)
-- [EdgeOne镜像]()
+- [Github-Pages](https://davidblackcn.github.io/my-icons)
+- [EdgeOne镜像](https://icon.davidblackcn.cc)
 - 点击相应图标即可获取URL
 
 ![show](public/show.png)

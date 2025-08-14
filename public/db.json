@@ -1,399 +1,302 @@
 {
-
-  "AI":  [
+  "Icon": [
     {
-      "name": "ChatBot UI",
+      "name": "aaPanel",
       "type": "png",
       "course": ""
     },
     {
-      "name": "ChatGPT Next Web",
+      "name": "Acme",
       "type": "png",
       "course": ""
     },
     {
-      "name": "ChatGPT Web",
+      "name": "ADGuardHome_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "ChatPad AI",
+      "name": "ADGuardHome_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Cursor",
+      "name": "ADGuardHome_C",
       "type": "png",
       "course": ""
     },
     {
-      "name": "DeepSeek",
+      "name": "Adminer",
       "type": "png",
       "course": ""
     },
     {
-      "name": "FastGPT",
+      "name": "AirConnect",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Gemini",
+      "name": "Alist",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Alist_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "LlamaGPT",
+      "name": "Alist_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "LobeChat",
+      "name": "Alist_C",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Stable Diffusion",
+      "name": "Aliyundrive",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Tongyi Qianwen",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Cloud Protection Services": [
-    {
-      "name": "Cloudflare",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "CMS": [
-    {
-      "name": "Halo_A",
+      "name": "Aliyunpan",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Halo_B",
+      "name": "Ams",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Halo_C",
+      "name": "Answer",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Halo_D",
+      "name": "Aria2_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Halo_E",
+      "name": "Aria2_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Halo_F",
+      "name": "Aria2_C",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Halo_G",
+      "name": "AriaNg",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Hexo",
+      "name": "AriaNg",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Audiobookshelf",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Hugo_A",
+      "name": "Author",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Hugo_B",
+      "name": "AutoBangumi_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Hugo_C",
+      "name": "AutoBangumi_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Typecho",
+      "name": "AutoBangumi_C",
       "type": "png",
       "course": ""
     },
     {
-      "name": "WordPress_A",
+      "name": "AutoBangumi_D",
       "type": "png",
       "course": ""
     },
     {
-      "name": "WordPress_B",
+      "name": "Autopiano",
       "type": "png",
       "course": ""
     },
     {
-      "name": "WordPress_C",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Database Management": [
-    {
-      "name": "InfluxDB_A",
+      "name": "Backup-x",
       "type": "png",
       "course": ""
     },
     {
-      "name": "InfluxDB_B",
+      "name": "Baidunetdisk_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "MariaDB_A",
+      "name": "Baidunetdisk_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "MariaDB_B",
+      "name": "Bangumi",
       "type": "png",
       "course": ""
     },
     {
-      "name": "MariaDB_C",
+      "name": "Baota",
       "type": "png",
       "course": ""
     },
     {
-      "name": "MySQL_A",
+      "name": "Bazarr_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "MySQL_B",
+      "name": "Bazarr_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "PostgreSQL",
+      "name": "Bazarr_C",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Teable",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "DNS": [
-    {
-      "name": "AdGuard Home",
+      "name": "Bilibili_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Blocky",
+      "name": "Bilibili_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "CloudDNS_A",
+      "name": "Bilibili_C",
       "type": "png",
       "course": ""
     },
     {
-      "name": "CloudDNS_B",
+      "name": "Bilibili_D",
       "type": "png",
       "course": ""
     },
     {
-      "name": "DDNS",
+      "name": "Bilibili_E",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Lucky",
-      "type": "png",
-      "course": "https://lucky666.cn/"
-    },
-    {
-      "name": "Maza ad blocking",
+      "name": "Bililive-go",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Pi-Hole",
+      "name": "Bitwarden",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Bitwarden_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Technitium DNS Server",
+      "name": "Bitwarden_B",
       "type": "png",
       "course": ""
-    }
-  ],
-
-  "Document Management": [
+    },
+    {
+      "name": "BlogProject",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "BlogProject",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "BookStore",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "BookStore",
+      "type": "svg",
+      "course": ""
+    },
     {
       "name": "Calibre",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Calibre Web",
+      "name": "CasaOS_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Docat",
+      "name": "CasaOS_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Docspell",
+      "name": "CasaOS_C",
       "type": "png",
       "course": ""
     },
     {
-      "name": "DocuSeal",
+      "name": "Centos",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Kapowarr",
+      "name": "ChatGPT_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Kavita",
+      "name": "ChatGPT_A",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "ChatGPT_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Komga",
+      "name": "Chfs",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Notion",
+      "name": "Chinesesubfinder_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Paperless-ngx_A",
+      "name": "Clouddrive2",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Paperless-ngx_B",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Readeck",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Stirling PDF",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Teedy",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Downloader": [
-    {
-      "name": "Aria2",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Deluge",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Gopeed",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "IYUU_A",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "IYUU_B",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "JDownloader2",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "MeTube",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Nzbget",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "PyLoad",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "qBittorrent",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Transmission",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Vertex",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "File Transfer": [
-    {
-      "name": "Alist",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Chibisafe",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "CloudDrive2",
+      "name": "Cloudflare",
       "type": "png",
       "course": ""
     },
@@ -403,252 +306,77 @@
       "course": ""
     },
     {
-      "name": "FileBrowser",
+      "name": "Cookiecloud",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Minio_A",
+      "name": "Dashdot",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Minio_B",
+      "name": "Dbgate",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Minio_C",
+      "name": "DDNSto",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Minio_D",
+      "name": "DDNS_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Minio_E",
+      "name": "DDNS_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Minio_F",
+      "name": "Deepin",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Nextcloud",
+      "name": "default",
+      "type": "webp",
+      "course": ""
+    },
+    {
+      "name": "Dsback",
       "type": "png",
       "course": ""
     },
     {
-      "name": "PairDrop",
+      "name": "DSM6",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Pingvin Share",
+      "name": "DSM7",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Plik",
+      "name": "Duplicati",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Resilio Sync",
+      "name": "Emby_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Snapdrop",
+      "name": "Emby_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Syncthing",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "VerySync",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Google": [
-    {
-      "name": "Chrome",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Gmail",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Google",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Google Harddisk",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Google Maps",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Google Photo",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Google Play",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Translate",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Instant Messaging": [
-    {
-      "name": "Telegram_A",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Telegram_B",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Internet of Things (IoT)": [
-    {
-      "name": "Gladys Assistant",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Home Assistant_A",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Home Assistant_B",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Home Assistant_C",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Home Assistant_D",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "ThingsBoard",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "WebThings Gateway",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Linux Server Operation and Management Panel": [
-    {
-      "name": "1Panel",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "aapanel",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "BT Panel",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Nginx Proxy Manager",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Proxmox VE_A",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Proxmox VE_B",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Proxmox VE_C",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "SafeLine",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Note-taking & Editors & Wikis": [
-    {
-      "name": "Affine",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "An Otter Wiki",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Appflowy",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "BookStack",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Docusaurus",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "DokuWiki",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Draw.io",
+      "name": "Emby_C",
       "type": "png",
       "course": ""
     },
@@ -658,90 +386,107 @@
       "course": ""
     },
     {
-      "name": "Flatnotes",
+      "name": "FileBrowser",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Filebrowser_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "FocalBoard",
+      "name": "Filebrowser_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "HedgeDoc",
+      "name": "FileBrowser_C",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Joplin",
+      "name": "Filecodebox",
       "type": "png",
       "course": ""
     },
     {
-      "name": "MediaWiki",
+      "name": "Filerun",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Memos",
+      "name": "Flare",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Mrdoc",
+      "name": "Focalboard_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Outline",
+      "name": "Focalboard_A",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Focalboard_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Pepperminty Wiki",
+      "name": "FreeGamesClaimer",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Siyuan",
+      "name": "Frpc",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Standard Notes",
+      "name": "Grafana",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Tiddlywiki",
+      "name": "Halo",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Trilium Notes",
+      "name": "Happypandax",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Wikijs",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Personal Dashboards": [
-    {
-      "name": "Dashy",
+      "name": "Heimdall_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Fenrus",
+      "name": "Heimdall_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Heimdall",
+      "name": "Heimdall_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Heimdall_D",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Heimdall_E",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Hertzbeat",
       "type": "png",
       "course": ""
     },
@@ -751,238 +496,27 @@
       "course": ""
     },
     {
-      "name": "Homepage",
+      "name": "HomeAssistant",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "HomeAssistant_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Homer",
+      "name": "HomeAssistant_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "LinkStack",
+      "name": "HomeAssistant_C",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Mtab",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Onenav",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Sun Panel",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Untitled",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Password Managers": [
-    {
-      "name": "Bitwarden",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Vaultwarden",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Photo and Video Galleries": [
-    {
-      "name": "Immich_A",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Immich_B",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Librephotos",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Lsky Pro_A",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Lsky Pro_B",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Lsky Pro_C",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Lychee",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "MT Photos_A",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "MT Photos_B",
-      "type": "png",
-      "course": ""
-    },
-
-    {
-      "name": "PhotoPrism",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "PiGallery 2",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Piwigo",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Project Management & To-do List": [
-    {
-      "name": "Dootask",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Gitea",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Gitee",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "GitHub_A",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "GitHub_B",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "GitHub_C",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "GitHub_D",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "GitLab",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Kanboard",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Leantime",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Plane",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Planka",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Tasks.md",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Vikunja",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Wekan",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Remote Access": [
-    {
-      "name": "Remmina",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "RustDesk",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "ScreeGo",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Shellhub",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Sshwifty",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Router & VPN": [
-    {
-      "name": "Clash",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Dockovpn",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Headscale",
+      "name": "Homebox",
       "type": "png",
       "course": ""
     },
@@ -992,170 +526,812 @@
       "course": ""
     },
     {
-      "name": "iKuai_B",
+      "name": "IKuai_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "iKuai_C",
+      "name": "Immich",
       "type": "png",
       "course": ""
     },
     {
-      "name": "MetaCubeXD",
+      "name": "Jackett",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Jackett_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "OpenWrt_A",
+      "name": "Jackett_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "OpenWrt_B",
+      "name": "JavTube",
       "type": "png",
       "course": ""
     },
     {
-      "name": "OpenWrt_C",
+      "name": "Jellyfin",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Jellyfin_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Opnsense",
+      "name": "Jellyfin_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "PiVPN",
+      "name": "Jellyfin_C",
       "type": "png",
       "course": ""
     },
     {
-      "name": "StrongSwan",
+      "name": "Jingdong",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Sub Store",
+      "name": "JProxy_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Tailscale_A",
+      "name": "JProxy_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Tailscale_B",
+      "name": "Jump",
       "type": "png",
       "course": ""
     },
     {
-      "name": "V2rayA",
+      "name": "Kiwix-serve",
       "type": "png",
       "course": ""
     },
     {
-      "name": "yacd",
+      "name": "KodExplorer_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Zashboard",
+      "name": "KodExplorer_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Zerotier",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Self-hosting Solutions & OS": [
-    {
-      "name": "CasaOS",
+      "name": "Komga",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Centos_A",
+      "name": "Kplayer",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Centos_B",
+      "name": "Lanraragi",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Debian",
+      "name": "Librephotos",
       "type": "png",
       "course": ""
     },
     {
-      "name": "DietPi",
+      "name": "Linkease",
       "type": "png",
       "course": ""
     },
     {
-      "name": "ESXI",
+      "name": "Love",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Lskypro_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "FnOS",
+      "name": "Lskypro_B",
       "type": "png",
       "course": ""
     },
     {
-      "name": "iStoreOS",
+      "name": "Lucky",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Linux",
+      "name": "Luckybackup",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Runtipi",
+      "name": "Lychee",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Sandstorm",
+      "name": "Macos",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Synology_A",
+      "name": "Mariadb",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Synology_B",
+      "name": "Memos",
       "type": "png",
       "course": ""
     },
     {
-      "name": "TrueNAS_A",
+      "name": "Metube",
       "type": "png",
       "course": ""
     },
     {
-      "name": "TrueNAS_B",
+      "name": "Microsoft-edge",
       "type": "png",
       "course": ""
     },
     {
-      "name": "TrueNAS_C",
+      "name": "Mongodb",
       "type": "png",
       "course": ""
     },
     {
-      "name": "TrueNAS_D",
+      "name": "MovieProject",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "MovieProject",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Mt-photos",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Myicon",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "MySQL_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "MySQL_A",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "MySQL_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "MySQL_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nascab",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "NasTools_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "NasTools_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Navidrome",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Navidrome_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Navidrome_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Navidrome_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Netdata",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nextcloud",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "NginxProxyManager_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "NginxProxyManager_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_D",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_E",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_F",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_G",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_H",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nginx_I",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Npc",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Onlyoffice_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Onlyoffice_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Open-webui_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Open-webui_A",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Open-webui_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Openkylin",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Openwrt_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Openwrt_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "OpenWRT_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "OpenWRT_D",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Overseerr_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Overseerr_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Overseerr_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Overseerr_D",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Overseerr_E",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Photoprism",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Photoview",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Pikpak",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Pingvin-share",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Plex_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Plex_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Plex_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Portainer",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Portainer_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Portainer_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Portainer_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Portainer_D",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Postgresql",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Pt_helper",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "qBittorrent",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "qBittorrent_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "qBittorrent_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "qBittorrent_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "qBittorrent_D",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Qiandao",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Qinglong_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Qinglong_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Qinglong_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "QQ",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Radarr",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Radarr",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Reader",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Recorder",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Redis",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ROG_Rapture GT-AX6000_EVA_Edition",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ROG_Rapture GT-AXE16000",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ROG_Rapture_GT-AC5300",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ROG_Rapture_GT-AX11000_Pro",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ROG_Rapture_GT-AXE11000",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ROG_Rapture_GT-BE98 Pro",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ROG_Rapture_GT6",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Roon_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Roon_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Router",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Rustdesk",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ServerStatus",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ServerStatus",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Shadowsocks_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Shadowsocks_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Shadowsocks_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Shumeipan",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Siyuan",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Snapdrop",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Sonarr_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Sonarr_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Speedtest_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Speedtest_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Speedtest_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Subscribe",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Subscribe",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "SunPanel_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "SunPanel_A",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "SunPanel_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "SunPanel_B",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "SunPanel_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "SunPanel_C",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "SunPanel_D",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "SunPanel_D",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "SunPanel_E",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "SunPanel_E",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "SunPanel_F",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "SunPanel_F",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Surveyking",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Syncthing",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "Syncthing_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Syncthing_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Syncthing_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Tachidesk",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Tailscale",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Talebook",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "TencentVideo",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Tieba-cloud-sign",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Tinycore",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Tldraw",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Tomcat",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Transmission_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Transmission_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "TrueNas",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Ubooquity",
       "type": "png",
       "course": ""
     },
@@ -1165,7 +1341,12 @@
       "course": ""
     },
     {
-      "name": "Umbrel",
+      "name": "Ubuntukylin",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Umami",
       "type": "png",
       "course": ""
     },
@@ -1185,17 +1366,142 @@
       "course": ""
     },
     {
-      "name": "macOS",
+      "name": "Unraid_D",
       "type": "png",
       "course": ""
     },
     {
-      "name": "QTS",
+      "name": "UptimeKuma_A",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Windows",
+      "name": "Uptimekuma_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Uptimekuma_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "URL",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "URL",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "V2rayA_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "V2rayA_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "V2rayA_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "V2rayA_D",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "V2ray_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "V2ray_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Vaultwarden",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Verysync_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Verysync_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Verysync_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Verysync_D",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Vikunja",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Vocechat",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "VSCode",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Wallabag",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Ward",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Watchtower",
+      "type": "svg",
+      "course": ""
+    },
+    {
+      "name": "WebDav_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "WebDav_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "WebDav_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "WeChat",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "WeChatMoments",
       "type": "png",
       "course": ""
     },
@@ -1205,316 +1511,369 @@
       "course": ""
     },
     {
-      "name": "Windows11_A",
+      "name": "Windows11",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Windows11_B",
+      "name": "Winpe",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Zspace",
+      "name": "Wiznote",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Wordpress_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Wordpress_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Xunlei",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Xyhelper",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Yesplaymusic",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Zerotier",
       "type": "png",
       "course": ""
     }
   ],
-
-  "Software Containers": [
+  "Minecraft": [
     {
-      "name": "Docker",
-      "type": "png",
-      "course": ""
-    },{
-      "name": "DockerCopilot_A",
-      "type": "png",
-      "course": ""
-    },{
-      "name": "DockerCopilot_B",
+      "name": "Amulate",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Dockge",
+      "name": "BakaXL",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "Bedrock",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Portainer",
+      "name": "BlockBench",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Watchtower",
+      "name": "Chunkbase",
       "type": "png",
       "course": ""
     },
     {
-      "name": "What's up Docker_A",
-      "type": "png",
+      "name": "CraftingRecipe",
+      "type": "ico",
       "course": ""
-    },{
-      "name": "What's up Docker_B",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Streaming Service Platform": [
+    },
     {
-      "name": "Bilibili",
+      "name": "Curseforge",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Disney+",
+      "name": "Fabric",
       "type": "png",
       "course": ""
     },
     {
-      "name": "iQIYI",
+      "name": "favicon (2)",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "Forge",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "Gamergeeks",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Lastfm",
+      "name": "HelloSkin",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Netflix_A",
+      "name": "HMCL",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "Jukebox",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Netflix_B",
+      "name": "KLPBBS",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "LittleSkin",
       "type": "png",
       "course": ""
     },
     {
-      "name": "QQ Music",
+      "name": "Lunar",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "mc163",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "MCcag",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Tencent Video",
+      "name": "MCicons",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Youtube",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "Synology NAS": [
-    {
-      "name": "Active Backup for Business",
-      "type": "png",
+      "name": "MCMOD",
+      "type": "ico",
       "course": ""
     },
     {
-      "name": "Audio",
-      "type": "png",
+      "name": "MCNav",
+      "type": "gif",
       "course": ""
     },
     {
-      "name": "BeePhotos",
+      "name": "MCPacks",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "MCpixelart",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Download",
+      "name": "MCPKwiki",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Drive",
+      "name": "MCreator",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "MCSL2",
+      "type": "webp",
+      "course": ""
+    },
+    {
+      "name": "MCSManager",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "MCuuid",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "MCzwlt",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "MGC",
       "type": "png",
       "course": ""
     },
     {
-      "name": "DS Cam",
+      "name": "Microsoft",
       "type": "png",
       "course": ""
     },
     {
-      "name": "DS Note",
+      "name": "Mine-imator",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Files",
+      "name": "MineBBS",
       "type": "png",
       "course": ""
     },
     {
-      "name": "NAS",
+      "name": "Minecraft-Skin-Editor",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Photos",
+      "name": "Minecraft",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Synology Calendar",
+      "name": "MinecraftCapes",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "MinecraftForum",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Synology Contacts",
+      "name": "MinecraftHeads",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Synology MailPlus",
+      "name": "MinecraftMaps",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Video Station",
-      "type": "png",
-      "course": ""
-    }
-  ],
-
-  "VPS": [
-    {
-      "name": "Akamai",
+      "name": "Minecraftpfp",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Aliyun",
+      "name": "MinecraftTools",
       "type": "png",
       "course": ""
     },
     {
-      "name": "AWS",
+      "name": "MinecraftWiki",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "MinePlugin",
       "type": "png",
       "course": ""
     },
     {
-      "name": "BandwagonHOST",
+      "name": "ModManager",
       "type": "png",
       "course": ""
     },
     {
-      "name": "BandwagonHOST_A",
+      "name": "Modrinth",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "Mohist",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "Mojang",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "MSL",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "Multimc",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Buyvm",
+      "name": "NameMC",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "NeoForge",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "Nitwikit",
       "type": "png",
       "course": ""
     },
     {
-      "name": "CloudCone",
+      "name": "Optifine",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Contabo",
+      "name": "Paper",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "PCL2",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Green Cloud",
+      "name": "Pixilart",
       "type": "png",
       "course": ""
     },
     {
-      "name": "HetZner_A",
-      "type": "png",
-      "course": "https://www.hetzner.com"
-    },
-    {
-      "name": "HetZner_B",
-      "type": "png",
-      "course": "https://www.hetzner.com"
-    },
-    {
-      "name": "Huawei Cloud",
+      "name": "Quilt",
       "type": "png",
       "course": ""
     },
     {
-      "name": "iON",
+      "name": "Reden",
       "type": "png",
       "course": ""
     },
     {
-      "name": "Lcayun",
+      "name": "Serein",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "Spigot",
+      "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "WikiBedrock",
       "type": "png",
       "course": ""
     },
     {
-      "name": "NetCup_A",
+      "name": "WorldMachine",
       "type": "png",
       "course": ""
     },
     {
-      "name": "NetCup_B",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Oracle_A",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Oracle_B",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "OVH",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "RackNerd",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "SiteGround",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Spartan Host",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Tencent Cloud",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "UCloud",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "VirMach",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "Vultr",
-      "type": "png",
-      "course": ""
-    },
-    {
-      "name": "YxVM",
+      "name": "WorldPainter",
       "type": "png",
       "course": ""
     }
