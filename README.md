@@ -51,7 +51,7 @@ npm run serve
 1. 在 `./public/icon/<Your_Category_Name>` 内储存图标
 2. 在 `./src/views/index.vue` 中修改CDN链接使其指向自己的仓库
 ```
-let iconurlCdn = "https://cdn.jsdelivr.net/gh/DavidBlackCN/my-icons@main/dist/icon/" + url; // 此处修改CDN Url
+let iconurlCdn = "https://cdn.jsdelivr.net/gh/DavidBlackCN/my-icons@main/public/" + "icon/" + url; // 此处修改CDN Url
 ```
 3. 运行根目录下 `generate_icon_db.py` ，将自动根据icon文件夹内容生成db.json
 4. 上传仓库并部署服务
