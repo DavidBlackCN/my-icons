@@ -1558,7 +1558,17 @@
   ],
   "Minecraft": [
     {
+      "name": "Alsace.team",
+      "type": "png",
+      "course": ""
+    },
+    {
       "name": "Amulate",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Arclight",
       "type": "png",
       "course": ""
     },
@@ -1568,12 +1578,22 @@
       "course": ""
     },
     {
+      "name": "BakaXL",
+      "type": "png",
+      "course": ""
+    },
+    {
       "name": "Bedrock",
       "type": "png",
       "course": ""
     },
     {
       "name": "BlockBench",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Chest",
       "type": "png",
       "course": ""
     },
@@ -1598,8 +1618,8 @@
       "course": ""
     },
     {
-      "name": "favicon (2)",
-      "type": "ico",
+      "name": "FCL-team",
+      "type": "png",
       "course": ""
     },
     {
@@ -1609,6 +1629,11 @@
     },
     {
       "name": "Gamergeeks",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "GeyserMC",
       "type": "png",
       "course": ""
     },
@@ -1623,6 +1648,11 @@
       "course": ""
     },
     {
+      "name": "IrisShaders",
+      "type": "png",
+      "course": ""
+    },
+    {
       "name": "Jukebox",
       "type": "png",
       "course": ""
@@ -1630,6 +1660,36 @@
     {
       "name": "KLPBBS",
       "type": "ico",
+      "course": ""
+    },
+    {
+      "name": "Labymod",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "LauncherX",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Lava_Bucket",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "LeavesMC",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "LeviMC",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Liteloader",
+      "type": "png",
       "course": ""
     },
     {
@@ -1643,8 +1703,13 @@
       "course": ""
     },
     {
-      "name": "mc163",
-      "type": "ico",
+      "name": "LunarClient",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "MC163",
+      "type": "png",
       "course": ""
     },
     {
@@ -1688,6 +1753,11 @@
       "course": ""
     },
     {
+      "name": "MCSkinn",
+      "type": "png",
+      "course": ""
+    },
+    {
       "name": "MCSL2",
       "type": "webp",
       "course": ""
@@ -1725,6 +1795,11 @@
     {
       "name": "MineBBS",
       "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Minecraft-HK",
+      "type": "ico",
       "course": ""
     },
     {
@@ -1813,12 +1888,22 @@
       "course": ""
     },
     {
+      "name": "NatFrp",
+      "type": "png",
+      "course": ""
+    },
+    {
       "name": "NeoForge",
       "type": "ico",
       "course": ""
     },
     {
       "name": "Nitwikit",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Openfrp",
       "type": "png",
       "course": ""
     },
@@ -1843,6 +1928,26 @@
       "course": ""
     },
     {
+      "name": "PojavLauncher",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "PrismLauncher",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "PufferFish",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "PurpurMC",
+      "type": "png",
+      "course": ""
+    },
+    {
       "name": "Quilt",
       "type": "png",
       "course": ""
@@ -1863,6 +1968,11 @@
       "course": ""
     },
     {
+      "name": "SpongePowered",
+      "type": "png",
+      "course": ""
+    },
+    {
       "name": "WikiBedrock",
       "type": "png",
       "course": ""
@@ -1874,6 +1984,11 @@
     },
     {
       "name": "WorldPainter",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "XMCL",
       "type": "png",
       "course": ""
     }
