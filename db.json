@@ -1,4 +1,522 @@
 {
+  "AI": [
+    {
+      "name": "ChatBot UI",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ChatGPT Next Web",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ChatGPT Web",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ChatPad AI",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Cursor",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "DeepSeek",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "FastGPT",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Gemini",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "LlamaGPT",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "LobeChat",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Stable Diffusion",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Tongyi Qianwen",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Cloud Protection Services": [
+    {
+      "name": "Cloudflare",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "CMS": [
+    {
+      "name": "Halo_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Halo_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Halo_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Halo_D",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Halo_E",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Halo_F",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Halo_G",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Hexo",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Hugo_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Hugo_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Hugo_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Typecho",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "WordPress_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "WordPress_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "WordPress_C",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Database Management": [
+    {
+      "name": "InfluxDB_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "InfluxDB_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "MariaDB_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "MariaDB_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "MariaDB_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "MySQL_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "MySQL_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "PostgreSQL",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Teable",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "DNS": [
+    {
+      "name": "AdGuard Home",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Blocky",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "CloudDNS_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "CloudDNS_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "DDNS",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Lucky",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Maza ad blocking",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Pi-Hole",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Technitium DNS Server",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Document Management": [
+    {
+      "name": "Calibre Web",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Calibre",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Docat",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Docspell",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "DocuSeal",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Kapowarr",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Kavita",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Komga",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Notion",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Paperless-ngx_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Paperless-ngx_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Readeck",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Stirling PDF",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Teedy",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Downloader": [
+    {
+      "name": "Aria2",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Deluge",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Gopeed",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "IYUU_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "IYUU_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "JDownloader2",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "MeTube",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nzbget",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "PyLoad",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "qBittorrent",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Transmission",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Vertex",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "File Transfer": [
+    {
+      "name": "Alist",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Chibisafe",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "CloudDrive2",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Cloudreve",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Docat",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "FileBrowser",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Minio_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Minio_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Minio_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Minio_D",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Minio_E",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Minio_F",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nextcloud",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "PairDrop",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Pingvin Share",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Plik",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Resilio Sync",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Snapdrop",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Syncthing",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "VerySync",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Google": [
+    {
+      "name": "Chrome",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Gmail",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Google Harddisk",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Google Maps",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Google Photo",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Google Play",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Google",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Translate",
+      "type": "png",
+      "course": ""
+    }
+  ],
   "Icon": [
     {
       "name": "aaPanel",
@@ -1556,6 +2074,65 @@
       "course": ""
     }
   ],
+  "Instant Messaging": [
+    {
+      "name": "Telegram_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Telegram_B",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Linux Server Operation and Management Panel": [
+    {
+      "name": "1Panel",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "aapanel",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "BT Panel",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Nginx Proxy Manager",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Proxmox VE_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Proxmox VE_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Proxmox VE_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "SafeLine",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Tissue_A",
+      "type": "png",
+      "course": ""
+    }
+  ],
   "Minecraft": [
     {
       "name": "Alsace.team",
@@ -1575,11 +2152,6 @@
     {
       "name": "BakaXL",
       "type": "ico",
-      "course": ""
-    },
-    {
-      "name": "BakaXL",
-      "type": "png",
       "course": ""
     },
     {
@@ -1700,11 +2272,6 @@
     {
       "name": "Lunar",
       "type": "ico",
-      "course": ""
-    },
-    {
-      "name": "LunarClient",
-      "type": "png",
       "course": ""
     },
     {
@@ -1989,6 +2556,672 @@
     },
     {
       "name": "XMCL",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Personal Dashboards": [
+    {
+      "name": "Dashy",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Fenrus",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Heimdall",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Homarr",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Homepage",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Homer",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "LinkStack",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Mtab",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Onenav",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Sun Panel",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Untitled",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Photo and Video Galleries": [
+    {
+      "name": "Immich_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Immich_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Librephotos",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Lsky Pro_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Lsky Pro_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Lsky Pro_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Lychee",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "MT Photos_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "MT Photos_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "PhotoPrism",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "PiGallery 2",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Piwigo",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Router & VPN": [
+    {
+      "name": "Clash",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Dockovpn",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Headscale",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "iKuai_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "iKuai_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "iKuai_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "MetaCubeXD",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "OpenWrt_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "OpenWrt_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "OpenWrt_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Opnsense",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "PiVPN",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "StrongSwan",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Sub Store",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Tailscale_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Tailscale_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "V2rayA",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "yacd",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Zashboard",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Zerotier",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Self-hosting Solutions & OS": [
+    {
+      "name": "CasaOS",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Centos_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Centos_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Debian",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "DietPi",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "ESXI",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "FnOS",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "iStoreOS",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Linux",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "macOS",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "QTS",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Runtipi",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Sandstorm",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Synology_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Synology_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "TrueNAS_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "TrueNAS_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "TrueNAS_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "TrueNAS_D",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Ubuntu",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Umbrel",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Unraid_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Unraid_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Unraid_C",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Windows",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Windows10",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Windows11_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Windows11_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Zspace",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Software Containers": [
+    {
+      "name": "Docker",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "DockerCopilot_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "DockerCopilot_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Dockge",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Portainer",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Watchtower",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "What's up Docker_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "What's up Docker_B",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Streaming Service Platform": [
+    {
+      "name": "Bilibili",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Disney+",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "iQIYI",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Lastfm",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Netflix_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Netflix_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "QQ Music",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Tencent Video",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Youtube",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "Synology NAS": [
+    {
+      "name": "Active Backup for Business",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Audio",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "BeePhotos",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Download",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Drive",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "DS Cam",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "DS Note",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Files",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "NAS",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Photos",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Synology Calendar",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Synology Contacts",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Synology MailPlus",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Video Station",
+      "type": "png",
+      "course": ""
+    }
+  ],
+  "VPS": [
+    {
+      "name": "Akamai",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Aliyun",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "AWS",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "BandwagonHOST",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "BandwagonHOST_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Buyvm",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "CloudCone",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Contabo",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Green Cloud",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "HetZner_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "HetZner_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Huawei Cloud",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "iON",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Lcayun",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "NetCup_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "NetCup_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Oracle_A",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Oracle_B",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "OVH",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "RackNerd",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "SiteGround",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Spartan Host",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Tencent Cloud",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "UCloud",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "VirMach",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "Vultr",
+      "type": "png",
+      "course": ""
+    },
+    {
+      "name": "YxVM",
       "type": "png",
       "course": ""
     }
